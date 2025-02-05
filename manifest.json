@@ -1,0 +1,11 @@
+{
+  "visualizations": [
+    {
+      "id": "custom_table_links",
+      "label": "Custom Table with Clickable Links",
+      "custom": {
+        "js": "https://yourwebsite.com/custom-table.js"
+      }
+    }
+  ]
+}
